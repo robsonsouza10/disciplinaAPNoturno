@@ -7,7 +7,7 @@
 
 Olá, seja bem vindo .. 😁  
 
-Este é o principal material da disciplina de Algoritmos e Programação, e ele está sendo disponibilizado no GitHub. O conteúdo está dividido em 3 (três) unidades (pastas), seguindo o proposto no plano de ensino. Cada unidade tem um texto de apoio e suas respectivas atividades, dependo da unidade.
+Este é o principal material da disciplina de Algoritmos e Programação, e ele está sendo disponibilizado no GitHub. O conteúdo está dividido em 5 (cinco) unidades (pastas), seguindo o proposto no plano de ensino. Cada unidade tem um texto de apoio e suas respectivas atividades, dependo da unidade.
 
 Para se localizar em relação aos dias de aula e o conteúdo que está sendo passado utilize o arquivo [Cronograma] que se encontra no ava.
 
