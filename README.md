@@ -16,7 +16,7 @@ Mas observe, as pastas serão disponibilizadas no decorrer do cronograma.
 ## Links
 
 [AVA3]  
-[Cronograma]
+[Cronograma]  
 [PlanoEnsinoAVA]
 
 **Prazos** Geralmente o AVA3 é usado pelos professores para definirem prazos para atividades. Uma vez definido um prazo a atividade não pode ser entregue no AVA3, a não ser que o professor prorrogue o prazo. Não deixem para postar a atividade nos últimos minutos. Se for uma atividade que pode ser postada em partes, postem a medida que forem desenvolvendo. Só observem qual é o limite de envio que foi definido no post do AVA3 para aquela atividade.
