@@ -31,6 +31,10 @@ Mas observe, as pastas serão disponibilizadas no decorrer do cronograma.
 
 ## [Unidade3](./Unidade3 "Unidade3")
 
+## [Unidade4](./Unidade4 "Unidade4")
+
+## [Unidade5](./Unidade5 "Unidade5")
+
 E, se conseguirmos chegar até aqui (ainda vivos)... então boas férias 😉
 
 ----
